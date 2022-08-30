@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7c1cb4231d0f8b84986ee7cb8b7bb540
+  - enabled: 1
+    path: Assets/Scenes/Touch.unity
+    guid: 1c558284f24ee4a499ec9817dbcf1e56
+  - enabled: 1
+    path: Assets/Scenes/MultiTouch.unity
+    guid: 3c65272a301087c41a0050df81c9edea
+  - enabled: 1
+    path: Assets/Scenes/Vpad.unity
+    guid: aeca86ef4e8c70f40ae2fbc6646e4467
+  - enabled: 1
+    path: Assets/Scenes/Gestures.unity
+    guid: 0ed3bb68167fb3a4da7cc9e7bb75059f
+  - enabled: 1
+    path: Assets/Scenes/Acelerometro.unity
+    guid: c9e3163bed47e9843b1eecf43342107e
+  m_configObjects: {}
